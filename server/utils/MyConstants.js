@@ -1,11 +1,11 @@
 const MyConstants = {
-    DB_SERVER: 'cluster01.lzjgfli.mongodb.net',
-    DB_USER: 'chauhoangkha',
-    DB_PASS: '123',
-    DB_DATABASE: 'shoppingonline',
-    JWT_SECRET: '<jwt_secret>',
-    JWT_EXPIRES: '351636000000', // in milliseconds
-    EMAIL_USER: '<email_user>', // gmail service
-    EMAIL_PASS: '<app_pass>'
-  };
-  module.exports = MyConstants;
+  DB_SERVER: 'cluster0.urkxs2l.mongodb.net', // DOI 
+  DB_USER: 'dangminhkhoa193', // DOI 
+  DB_PASS: 'jJ5nO65XmnVi32dI',  // DOI 
+  DB_DATABASE: 'shoppingonline',
+  JWT_SECRET: '<jwt_secret>',
+  JWT_EXPIRES: '31565890000000', // in milliseconds
+  EMAIL_USER: 'dangminhkhoa2222@gmail.com',  // DOI 
+  EMAIL_PASS: 'mnmumasrcbpofnoq'    // DOI 
+}; 
+module.exports = MyConstants;
